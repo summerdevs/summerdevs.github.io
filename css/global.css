@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: seashell;
+}
+body{ 
+    background-color: rgb(44, 43, 43);
+
+}
+#searchbar{
+    color:black;
+    width: 60%;
+    height: 5%;
+    margin-left: 7%;
+    margin-top: 3%;
+    height: 36px;
+
+    
+}
+#searchicon{
+    margin-left: -1%;
+    margin-bottom: -.76%;
+}
+
+.mainbody{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+#logo{
+    margin-top: 2%;
+    width: 200px;
+    margin-left: 2%;
+    float: left;
+}
+#logo:hover{
+    border: solid 2px seashell;
+    
+}
+
+
+
+/* Shops */
+
+
+#herbs:hover{
+    opacity: .8;
+}
+#teletab:hover{
+    opacity: .8;
+}
+#planks{
+    margin-left: 30px;
+}
+#planks:hover{
+    opacity: .8;
+}
+#seeds{
+    margin-left: 30px;
+}
+#seeds:hover{
+    opacity: .8;
+}
