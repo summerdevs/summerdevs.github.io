@@ -83,6 +83,38 @@ body{
         
     }
 }
+
+
+@media only screen and (max-width: 430px){
+    #searchicon{
+        
+        margin-bottom: -4.2%;
+        margin-left: -3.4%;
+    }
+    #logo{
+        margin-top: -30%;
+        width: 200px;
+        margin-left: 20%;
+    }
+    #searchbar{
+        color:black;
+        width: 60%;
+        height: 5%;
+        margin-left: 12%;
+        margin-top: 25%;
+        height: 36px;
+    
+        
+    }
+    .mainbody{
+        margin-top: 10%;
+        margin-left: 12%;
+    }
+}
+
+
+
+
 @media only screen and (max-width: 360px){
     #searchicon{
         
