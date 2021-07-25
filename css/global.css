@@ -60,7 +60,20 @@ body{
 #seeds:hover{
     opacity: .8;
 }
-
+footer{
+    margin-bottom: 40%;
+}
+#pfp{
+    border: solid 2px seashell;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    margin-left: 9%;
+    margin-bottom: -1.4%;
+}
+#pfp:hover{
+    opacity: .8;
+}
 
 @media only screen and (max-width: 600px){
     #searchicon{
