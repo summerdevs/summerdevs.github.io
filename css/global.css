@@ -60,3 +60,52 @@ body{
 #seeds:hover{
     opacity: .8;
 }
+
+
+@media only screen and (max-width: 600px){
+    #searchicon{
+        
+        margin-bottom: -2.3%;
+    }
+    #logo{
+        margin-top: -19%;
+        width: 200px;
+        margin-left: 30%;
+    }
+    #searchbar{
+        color:black;
+        width: 60%;
+        height: 5%;
+        margin-left: 10%;
+        margin-top: 12%;
+        height: 36px;
+    
+        
+    }
+}
+@media only screen and (max-width: 360px){
+    #searchicon{
+        
+        margin-bottom: -4%;
+        margin-left: -3%;
+    }
+    #logo{
+        margin-top: -30%;
+        width: 200px;
+        margin-left: 20%;
+    }
+    #searchbar{
+        color:black;
+        width: 60%;
+        height: 5%;
+        margin-left: 12%;
+        margin-top: 20%;
+        height: 36px;
+    
+        
+    }
+    .mainbody{
+        margin-top: 10%;
+        margin-left: 12%;
+    }
+}
