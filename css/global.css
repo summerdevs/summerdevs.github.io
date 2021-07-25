@@ -84,8 +84,8 @@ body{
     }
 }
 
-
-@media only screen and (max-width: 490px){
+/* Google Pixel */
+@media only screen and (max-width: 412px){
     #searchicon{
         
         margin-bottom: -4.2%;
@@ -112,7 +112,32 @@ body{
     }
 }
 
-
+@media all and (min--moz-device-pixel-ratio:0) and (max-width: 412px){
+    #searchicon{
+        
+        margin-bottom: -4.2%;
+        margin-left: -3.4%;
+    }
+    #logo{
+        margin-top: -30%;
+        width: 200px;
+        margin-left: 20%;
+    }
+    #searchbar{
+        color:black;
+        width: 60%;
+        height: 5%;
+        margin-left: 12%;
+        margin-top: 30%;
+        height: 36px;
+    
+        
+    }
+    .mainbody{
+        margin-top: 10%;
+        margin-left: 12%;
+    }
+}
 
 
 @media only screen and (max-width: 360px){
