@@ -123,6 +123,15 @@ footer{
         margin-top: 10%;
         margin-left: 12%;
     }
+    #pfp{
+        border: solid 2px seashell;
+        border-radius: 50%;
+        height: 60px;
+        width: 60px;
+        margin-top: 50%;
+        margin-left: 9%;
+        margin-bottom: -1.4%;
+    }
 }
 
 @media all and (min--moz-device-pixel-ratio:0) and (max-width: 412px){
@@ -149,6 +158,14 @@ footer{
     .mainbody{
         margin-top: 10%;
         margin-left: 12%;
+    }
+    #pfp{
+        border: solid 2px seashell;
+        border-radius: 50%;
+        height: 60px;
+        width: 60px;
+        margin-top: 50%;
+        margin-left: 9%;
     }
 }
 
